@@ -41,3 +41,18 @@ Abaixo você pode consultar o nosso simulador, lista de materiais e o sistema el
 ## Esquema elétrico do projeto
 
 ![](IMG/Esquematicacarrino.jpg)
+
+
+---
+
+## Acompanhe nossa montagem!
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()

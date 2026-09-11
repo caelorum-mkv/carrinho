@@ -35,3 +35,5 @@ Projeto de um veículo mecatrônico usando lixo eletrônico.
 ---
 
 ## Esquema elétrico do projeto
+
+![](IMG/Esquemática carrino.jpg)

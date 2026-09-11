@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"R1",1,"10 kΩ Resistor"
+"D1",1," Diodo"
+"S1",1," Interruptor deslizante"
+"R2",1," Fotorresistor"
+"M1",1," Motor CC"
+"Bat1",1,"4 baterias, AA, não Bateria 1,5V"
+"1",1," Placa de ensaio mini"
+"Q1",1," TIP120"

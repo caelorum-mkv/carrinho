@@ -2,6 +2,9 @@
 
 # Carrinho Mecatrônico
 Projeto de um veículo mecatrônico usando lixo eletrônico.
+
+![](IMG/carrinho-mecatronico.jpg)
+
 ## Autores 
 - Gabriel
 - Giovana

@@ -31,3 +31,7 @@ Projeto de um veículo mecatrônico usando lixo eletrônico.
 | Bat1 | 1 | 4 baterias AA, não Bateria 1,5V |
 | 1 | 1 | Placa de ensaio mini |
 | Q1 | 1 | TIP120 |
+
+---
+
+## Esquema elétrico do projeto

@@ -53,9 +53,14 @@ Abaixo você pode consultar o nosso simulador, lista de materiais e o sistema el
 ## Aplicando estanho nos pontos de fixação de cabo no motor!
 ![](IMG/soldamotor.jpg)
 
-![]()
 
-![]()
+## Preparando abertura para acoplar o motor!
+![](IMG/furomotor.jpg)
+
+
+## Sucesso!
+![](IMG/motorgirando.jpg
+)
 
 ![]()
 

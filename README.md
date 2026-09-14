@@ -5,7 +5,7 @@ Neste projeto você vai aprender a montar seu próprio carrinho de sucata movido
 
 Bora lá?
 
-![](IMG/carrinho-mecatronico.jpg)
+![](IMG/IMG_20260911_163915.jpg)
 
 ## Autores 
 - Gabriel

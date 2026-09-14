@@ -59,9 +59,9 @@ Abaixo você pode consultar o nosso simulador, lista de materiais e o sistema el
 
 
 ## Sucesso!
-![](IMG/motorgirando.jpg
-)
+![](IMG/motorgirando.jpg)
 
-![]()
+## Rodinhas colocadas, nosso carrinho está pronto!
+![](IMG/IMG_20260911_163915.jpg)
 
 ![]()
